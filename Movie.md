@@ -1,7 +1,7 @@
 ![HHGG Logo](/HHGG.jpg)
 
-#Hitchhiker's Guide to the Galaxy
-
+Hitchhiker's Guide to the Galaxy
+--------------------------------
 One Thursday morning, **Arthur Dent** discovers that his house is to be immediately demolished to make way for a bypass. He tries delaying the bulldozers by lying down in front of them. **Ford Prefect**, a friend of Arthur's, convinces him to go to a pub with him. Over several pints of beer, Ford explains that he is an alien from the vicinity of Betelgeuse, and a journalist working on the *Hitchhiker's Guide to the Galaxy*, a universal guide book. Ford warns that the Earth is to be demolished later that day by a race called **Vogons**, to make way for a hyperspace bypass.
 
 As the Vogon fleet arrives in orbit to destroy Earth, Ford rescues Arthur by stowing aboard one of the Vogon ships. The pair are shortly discovered and thrown out an airlock, only to be picked up by the starship __*Heart of Gold*__. They find Ford's "semi-cousin" **Zaphod Beeblebrox**, the newly elected president of the Galaxy. He has stolen the ship along with **Tricia "Trillian" McMillan**, an Earth woman whom Arthur had met previously, and **Marvin the Paranoid Android**, a clinically depressed robot.
