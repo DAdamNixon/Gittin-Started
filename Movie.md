@@ -1,4 +1,4 @@
-![HHGG Logo](/HHGG.jpg)
+![HHGG Logo](https://m.media-amazon.com/images/M/MV5BMjM5NDczOTg3OV5BMl5BanBnXkFtZTgwNjkzMTIyMDI@._V1_QL75_UY281_CR84,0,500,281_.jpg)
 
 Hitchhiker's Guide to the Galaxy
 --------------------------------
