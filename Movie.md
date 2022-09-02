@@ -18,7 +18,7 @@ Suddenly, Questular and the Vogons arrive outside the home and open fire. The gr
 
 [Hitchhiker's Guide Game](https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition)
 
-[Buy Hitchhiker's Guide](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802)
+[So long, and thanks for all the fish.](https://www.youtube.com/watch?v=N_dUmDBfp6k)
 
     public class Movie {
         public static void main(String[] args) {
